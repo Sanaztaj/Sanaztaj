@@ -23,7 +23,6 @@ It's been a few months since I transitioned from the Vue framework to React, and
 
 
 
-
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=sanaztajik&label=Profile%20Views&pretty=false" />
 </a>
@@ -32,6 +31,7 @@ It's been a few months since I transitioned from the Vue framework to React, and
   <a href="https://www.linkedin.com/in/sanaztajik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 
-
-         
+---
+  [![](https://visitcount.itsvg.in/api?id=sanaztajik&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+   
 
