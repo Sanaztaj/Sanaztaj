@@ -14,14 +14,14 @@ It's been a few months since I transitioned from the Vue framework to React, and
 
 ## 🚀 Professional Experience
 
-- Goldinex
-- Seke Mohammad
-- Sameteo
-- SBK insurance sameteo
+- Goldinex - [Live Website](https://app.goldinex.org)
+- Seke Mohammad - [Live Website](https://app.sekemohammad.com)
+- Sameteo - [Live Website](https://sameteo.com)
+- SBK insurance sameteo - [Live Website](https://insurance.sameteo.com)
 - Crypto Paper Trading
 - GreenBank
 - Roti Kala
-- Matin Homes
+- Matin Homes - [Live Website](https://matinhomes.ca/)
 
 
 <hr/>
