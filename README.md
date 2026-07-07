@@ -14,11 +14,15 @@ It's been a few months since I transitioned from the Vue framework to React, and
 
 ## 🚀 Professional Experience
 
-- GreenBank
 - Goldinex
-- MohammadCoin
-- Contact App
+- Seke Mohammad
+- Sameteo
+- SBK insurance sameteo
 - Crypto Paper Trading
+- GreenBank
+- Roti Kala
+- Matin Homes
+
 
 <hr/>
 
