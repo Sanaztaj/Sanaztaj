@@ -14,8 +14,8 @@ It's been a few months since I transitioned from the Vue framework to React, and
 
 ## 🚀 Professional Experience
 
-- Goldinex - [Live Website](https://app.goldinex.org)
-- Seke Mohammad - [Live Website](https://app.sekemohammad.com)
+- Goldinex - [Live WebApp](https://app.goldinex.org)
+- Seke Mohammad - [Live WebApp](https://app.sekemohammad.com)
 - Sameteo - [Live Website](https://sameteo.com)
 - SBK insurance sameteo - [Live Website](https://insurance.sameteo.com)
 - Crypto Paper Trading
