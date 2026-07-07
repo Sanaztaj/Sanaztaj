@@ -12,6 +12,16 @@ It's been a few months since I transitioned from the Vue framework to React, and
 
 <hr/>
 
+## 🚀 Professional Experience
+
+- GreenBank
+- Goldinex
+- MohammadCoin
+- Contact App
+- Crypto Paper Trading
+
+<hr/>
+
 ###  Skills:
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
